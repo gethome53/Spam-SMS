@@ -4,3 +4,4 @@ echo  "รอแปป"
 pip3 ติดตั้ง colorama
 เสียงสะท้อน " "
 echo  "อีกนิด"
+python3 Spam-SMS
